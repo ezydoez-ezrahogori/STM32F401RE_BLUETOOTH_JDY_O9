@@ -1,8 +1,8 @@
 /*
  * JDY-09.c
  *
- *  Created on: Nov 24, 2021
- *      Author: ROJEK
+ *  Created on: April 24, 2023
+ *      Author: Ezrah Buki
  */
 
 /* In JDY-09.h define JDY09_UART_RX_IT as 1 (using interrupt mode for receive) or 0 (use DMA mode for receive)
