@@ -1,8 +1,8 @@
 /*
  * ringbuffer.c
  *
- *  Created on: Jun 23, 2021
- *      Author: ROJEK
+ *  Created on: May 23, 2023
+ *      Author: Ezrah Buki
  */
 
 #include "ringbuffer.h"
