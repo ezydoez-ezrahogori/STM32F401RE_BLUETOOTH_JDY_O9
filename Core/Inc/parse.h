@@ -1,8 +1,8 @@
 /*
  * parse.h
  *
- *  Created on: 24 cze 2021
- *      Author: ROJEK
+ *  Created on: 24 April 2023
+ *      Author: Ezrah Buki
  */
 
 #ifndef INC_PARSE_H_
