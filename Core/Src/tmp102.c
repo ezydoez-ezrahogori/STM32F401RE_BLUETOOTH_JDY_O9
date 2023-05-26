@@ -1,8 +1,8 @@
 /*
  * tmp102.c
  *
- *  Created on: Sep 1, 2021
- *      Author: pawel
+ *  Created on: May 1, 2023
+ *      Author: Ezrah Buki
  */
 
 #include "stdio.h"
