@@ -1,8 +1,8 @@
 /*
  * tmp102.h
  *
- *  Created on: Sep 1, 2021
- *      Author: pawel
+ *  Created on: May 1, 2023
+ *      Author: Ezrah Buki
  */
 
 #ifndef INC_TMP102_H_
